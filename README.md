@@ -1,3 +1,38 @@
+Indian Institute of Technology Bombay
+ Linear Alkyl Benzene
+ Group 15
+ Chemical Process Design II
+ Spring Semester, 2025
+ Name
+ Roll Number
+ Devpal Meena
+ 22B0388
+ Kriday Parmar
+ 22B0380
+ Ronit Arora
+ 22B0393
+ Vipul Muskan
+ 22B0308
+ Divi Raghavendar Rao
+ 22B0378
+ Submitted to:
+ Prof. Hemant Nanavati & Prof. Pramod Wangikar
+ Department of Chemical Engineering
+ IIT Bombay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This report presents the manufacturing process of Linear Alkylbenzene(LAB). Chapter
  1describes the chemical, its physical and chemical properties, uses of LAB and by-products
  formed during its manufacturing. Chapter 2 deals with various mechanisms, production
