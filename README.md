@@ -1,115 +1,88 @@
-📘 Linear Alkyl Benzene (LAB) Manufacturing Process
+# 📘 Linear Alkyl Benzene (LAB) Manufacturing Process  
+*Chemical Process Design II – Spring Semester 2025*  
+**Indian Institute of Technology Bombay**  
+**Group 15 | Department of Chemical Engineering**  
 
-Chemical Process Design II – Spring Semester 2025
-Indian Institute of Technology Bombay
-Group 15 | Department of Chemical Engineering
+---
 
-👥 Team Members
+## 👥 Team Members  
+- **Devpal Meena (22B0388)**  
+- **Kriday Parmar (22B0380)**  
+- **Ronit Arora (22B0393)**  
+- **Vipul Muskan (22B0308)**  
+- **Divi Raghavendar Rao (22B0378)**  
 
-Devpal Meena (22B0388)
+**Submitted to:**  
+Prof. Hemant Nanavati & Prof. Pramod Wangikar  
 
-Kriday Parmar (22B0380)
+---
 
-Ronit Arora (22B0393)
+## 📖 Project Overview  
+This project report presents the **manufacturing process of Linear Alkylbenzene (LAB)**, an important intermediate in the detergent industry. The report is structured into seven chapters covering the fundamentals, process design, simulations, and sensitivity analysis.  
 
-Vipul Muskan (22B0308)
+---
 
-Divi Raghavendar Rao (22B0378)
+## 📂 Report Structure  
 
-Submitted to:
-Prof. Hemant Nanavati & Prof. Pramod Wangikar
+### **Chapter 1 – Introduction**  
+- Overview of LAB: physical & chemical properties  
+- Applications of LAB in detergents and other products  
+- By-products formed during manufacturing  
 
-📖 Project Overview
+### **Chapter 2 – Production Processes**  
+- Various mechanisms & proposed routes for LAB synthesis  
+- Yield comparison of different routes  
 
-This project report presents the manufacturing process of Linear Alkylbenzene (LAB), an important intermediate in the detergent industry. The report is structured into seven chapters covering the fundamentals, process design, simulations, and sensitivity analysis.
+### **Chapter 3 – Challenges & Market Overview**  
+- Limitations of old manufacturing methods  
+- Ongoing research and improvements  
+- Global LAB market analysis (14-year data)  
+- Key industry players  
+- Plant location selection: **Vadodara, Gujarat** (with reasons)  
+- Proposed plant capacity  
 
-📂 Report Structure
-Chapter 1 – Introduction
+### **Chapter 4 – Process Description**  
+- **Raw Feed:** Kerosene  
+- **Front-End Process:** Conversion of kerosene into straight paraffins (C10–C14)  
+- **Back-End Process:** Conversion of paraffins into LAB  
+- Illustrated with detailed **Process Flow Diagrams (PFDs)**  
 
-Overview of LAB: physical & chemical properties
+### **Chapter 5 – Mass Balance**  
+- Mass balance of reactors and separation columns  
+- Tabular representation of component flows  
+- Complete backend process balance  
 
-Applications of LAB in detergents and other products
+### **Chapter 6 – Simulation Results**  
+- Backend process simulated  
+- Comparison of manual calculations vs. simulation results  
 
-By-products formed during manufacturing
+### **Chapter 7 – Sensitivity Analysis**  
+- Equipment-wise sensitivity studies  
+- Identification of optimal operating parameters  
 
-Chapter 2 – Production Processes
+---
 
-Various mechanisms & proposed routes for LAB synthesis
+## 📊 Key Highlights  
+- Designed a **full LAB production plant** using kerosene as feedstock  
+- Conducted **mass & energy balances** for each unit  
+- Performed **Aspen/HYSYS simulation** of backend processes  
+- Analyzed **market trends and economics** for LAB production  
+- Evaluated **sensitivity of key parameters** to optimize operations  
 
-Yield comparison of different routes
+---
 
-Chapter 3 – Challenges & Market Overview
+## 🏭 Plant Location  
+📍 **Vadodara, Gujarat, India**  
+- Proximity to raw materials  
+- Industrial infrastructure availability  
+- Access to skilled manpower and logistics  
 
-Limitations of old manufacturing methods
+---
 
-Ongoing research and improvements
+## ⚙️ Tools & Methods  
+- Process Flow Diagrams (PFDs)  
+- Mass & Energy Balances  
+- Simulation (Aspen Plus / HYSYS)  
+- Sensitivity Analysis  
 
-Global LAB market analysis (14-year data)
-
-Key industry players
-
-Plant location selection: Vadodara, Gujarat (with reasons)
-
-Proposed plant capacity
-
-Chapter 4 – Process Description
-
-Raw Feed: Kerosene
-
-Front-End Process: Conversion of kerosene into straight paraffins (C10–C14)
-
-Back-End Process: Conversion of paraffins into LAB
-
-Illustrated with detailed Process Flow Diagrams (PFDs)
-
-Chapter 5 – Mass Balance
-
-Mass balance of reactors and separation columns
-
-Tabular representation of component flows
-
-Complete backend process balance
-
-Chapter 6 – Simulation Results
-
-Backend process simulated
-
-Comparison of manual calculations vs. simulation results
-
-Chapter 7 – Sensitivity Analysis
-
-Equipment-wise sensitivity studies
-
-Identification of optimal operating parameters
-
-📊 Key Highlights
-
-Designed a full LAB production plant using kerosene as feedstock
-
-Conducted mass & energy balances for each unit
-
-Performed Aspen/HYSYS simulation of backend processes
-
-Analyzed market trends and economics for LAB production
-
-Evaluated sensitivity of key parameters to optimize operations
-
-🏭 Plant Location
-
-📍 Vadodara, Gujarat, India
-
-Proximity to raw materials
-
-Industrial infrastructure availability
-
-Access to skilled manpower and logistics
-
-⚙️ Tools & Methods
-
-Process Flow Diagrams (PFDs)
-
-Mass & Energy Balances
-
-Simulation (Aspen Plus / HYSYS)
-
-Sensitivity Analysis
+---
